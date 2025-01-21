@@ -1,4 +1,4 @@
-Proyecto para practicar con git/github. 
+### Proyecto para practicar con git/github. ###
 Pasos:
 1. Inicia sesión en tu cuenta de GitHub.
 2. Haz un fork del repositorio MisLibros (https://github.com/cuchaGit/MisLibros) a tu cuenta de GitHub.
@@ -7,4 +7,4 @@ Pasos:
 5. En Visual Studio Code, añade una línea en index.html para incluir el nuevo libro en la página web.
 6. Registra los cambios (commit) en una nueva rama del repositorio.
 7. Sincroniza todo con el repositorio remoto de tu cuenta GitHub.
-8. Desde GitHub, haz Pull request para solicitar la incorporación (merge) de tu contribución al código en la rama principal del repositorio MisLibros de https://github.com/cuchaGit/MisLibros.
+8. Desde GitHub, haz Pull request para solicitar la incorporación (merge) de tu contribución al código en la rama main del repositorio origen MisLibros de https://github.com/cuchaGit/MisLibros.
